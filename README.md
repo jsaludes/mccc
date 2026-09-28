@@ -1,3 +1,4 @@
+<img width="1688" height="932" alt="portada" src="https://github.com/user-attachments/assets/a7e489e6-0611-4634-82be-dac5115797c3" />
 # 📻 MCCC — MeshCore CardComm
 
 [![Device](https://img.shields.io/badge/Device-M5Stack_Cardputer_ADV-orange.svg)](https://docs.m5stack.com/en/card/cardputer)
