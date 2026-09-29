@@ -15,11 +15,11 @@ A standalone and Bluetooth companion **MeshCore** client built specifically for 
 ### English
 After trying out various MeshCore firmwares on the M5Stack Cardputer ADV, I encountered compatibility issues with my local repeaters running newer MeshCore versions, alongside some usability drawbacks for everyday use. As an active amateur radio operator (**EA3IIU**), I decided to develop my own client: **MCCC — MeshCore CardComm**.
 
-My main goal was clear from the start: to make the Cardputer function as a fully independent MeshCore device without needing a phone nearby, while still retaining the ability to pair via Bluetooth as a companion whenever needed. 
+My main goal was clear from the start: to make the Cardputer function as a fully independent MeshCore device without needing a phone nearby, while still retaining the ability to pair via Bluetooth as a companion whenever needed. 
 
 Above all, **MCCC is a personal learning project** focused on experimentation, solving real-world compatibility hurdles, and sharing progress with the MeshCore community.
 
-> **Resumen en Español**  
+> **Resumen en Español**  
 > MCCC es un cliente MeshCore desarrollado por el radioaficionado **EA3IIU** para el M5Stack Cardputer ADV + CAP LoRa-1262. Nació para solucionar problemas de compatibilidad con repetidores locales y ofrecer una experiencia 100% autónoma (*standalone*), permitiendo al mismo tiempo su uso como *Bluetooth companion* para el smartphone.
 
 ---
@@ -81,6 +81,9 @@ MCCC is an independent community project that builds upon the great work of othe
 
 ## ⚠️ Disclaimer
 
-> MCCC is provided as a community and personal development project on an **"AS IS"** basis, without warranty of any kind, express or implied. The author(s) shall not be held liable for any claim, damages, or other liability arising from or in connection with the software or its use. 
-> 
+> MCCC is provided as a community and personal development project on an **"AS IS"** basis, without warranty of any kind, express or implied. The author(s) shall not be held liable for any claim, damages, or other liability arising from or in connection with the software or its use. 
+> 
 > Use at your own risk. The software may contain bugs, compatibility issues, or unexpected behavior depending on network conditions, LoRa configurations, or MeshCore protocol updates.
+
+
+Quiero este readme en ingles y en español, de modo que se muestre la misma información en los dos idiomas, no resumenes
