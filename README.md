@@ -1,5 +1,11 @@
-# 📻 MCCC — MeshCore CardComm
+[![Device](https://img.shields.io/badge/Device-M5Stack_Cardputer-orange.svg)](https://docs.m5stack.com/en/card/cardputer)
+[![Chipset](https://img.shields.io/badge/Chipset-ESP32--S3-blue.svg)](https://www.espressif.com/en/products/socs/esp32-s3)
+[![License](https://img.shields.io/badge/License-Planned_MIT-green.svg)](#-source-code--código-fuente)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy_Me_A_Coffee-yellow.svg)](https://buymeacoffee.com/jsaludes)
 
+<img width="1688" height="932" alt="portada" src="https://github.com/user-attachments/assets/f597e18a-8120-4e59-b56f-ab028289cc0d" />
+
+# 📻 MCCC — MeshCore CardComm
 
 ENGLISH
 ---
